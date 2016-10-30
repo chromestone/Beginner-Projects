@@ -1,0 +1,1 @@
+I beleive this was before I understood ASCII. I totally "cheated" on this shift and did some major hardcore hardcoding.
