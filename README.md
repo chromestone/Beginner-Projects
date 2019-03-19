@@ -1,2 +1,2 @@
-# Weird-Stuff
+# Beginner Projects
 This is where my old "random" programs will be posted. (Prior to 2016)
